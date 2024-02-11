@@ -27,7 +27,7 @@
     rm -rf NewFolder – Принудительное удаление каталога с именем “NewFolder” рекурсивно
     cp oldfile1 newfile2 – Копирует содержимое oldfile1 в newfile2
     cp -r olddir1 newdir2 – Рекурсивно копирует каталог “olddir1” в “newdir2”. Dir2 будет создан, если он не существует.
-    mv oldfile1 newfile2 – Переименовывает “oldfile1” в “newfile2”.
+    mv oldfile1 newfile2 – Переименовывает “oldfile1” в “newfile2”. и перемещение тоже
     ln -s /etc/log/file logfile – Создает ярлык на файл
     touch newfile – Создает пустой файл с именем newfile
     cat > newfile – Помещает STDIN в newfile
