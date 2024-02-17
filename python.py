@@ -1,1 +1,3 @@
-hello
+a = 'Hello world!'
+s
+print(a)
