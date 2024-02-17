@@ -1,3 +1,1 @@
-a = 'Hello world!'
-s
-print(a)
+hello
