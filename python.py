@@ -12,6 +12,6 @@ for j in b:
 if c == v:
     print('YES')
 else:
-    print('NO')
+    print('NO')с
 
 
