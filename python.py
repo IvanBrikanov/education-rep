@@ -14,4 +14,4 @@ if c == v:
 else:
     print('NO')с
 
-
+danila huy
