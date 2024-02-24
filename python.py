@@ -13,5 +13,5 @@ if c == v:
     print('YES')
 else:
     print('NO')с
-
-danila huy
+    
+test vim page;
